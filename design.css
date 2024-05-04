@@ -1,0 +1,23 @@
+*{
+    margin-top: 40px;
+    background-color: black;
+}
+
+div{
+    height: 400px;
+    width: 400px; 
+}
+
+button{
+    background-color: whitesmoke;
+    color: black;
+    margin-left: 400px;
+}
+img{
+    width: 200px;
+    margin-left: 550px;
+}
+
+#On{
+    display: none;
+}
